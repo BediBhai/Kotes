@@ -1,4 +1,4 @@
-## Welcome to Kiran Bedi Bhai's Kote site
+## Welcome to Kiran Bedi Bhai's Kotes
 
 Tread carefully!
 
