@@ -2,6 +2,8 @@
 
 Tread carefully!
 
-![alt text](https://github.com/BediBhai/Kotes/blob//image.jpg?raw=true)
+### Some other day
+![the Beginning](https://github.com/BediBhai/Kotes/blob/gh-pages/images/someotherday.jpg?raw=true)
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+### 19/04/2021
+![Materialization](https://github.com/BediBhai/Kotes/blob/gh-pages/images/19_04_2021.jpg?raw=true)
