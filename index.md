@@ -2,6 +2,9 @@
 
 #### Tread carefully!
 
+### Blessed twice :)
+![Materialization](https://github.com/BediBhai/Kotes/blob/gh-pages/images/22_04_2021_2.jpeg?raw=true)
+
 ### 22/04/2021
 ![Materialization](https://github.com/BediBhai/Kotes/blob/gh-pages/images/22_04_2021.png?raw=true)
 
