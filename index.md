@@ -3,7 +3,7 @@
 #### Tread carefully.
 
 ### 25/04/2021 Paradox!
-![Blessed twice :)](https://github.com/BediBhai/Kotes/blob/gh-pages/images/25_04_2021_2.jpeg?raw=true)
+![Blessed twice :)](https://github.com/BediBhai/Kotes/blob/gh-pages/images/25_04_2021_2.jpg?raw=true)
 
 ### Blessed twice :)
 ![Blessed twice :)](https://github.com/BediBhai/Kotes/blob/gh-pages/images/22_04_2021_2.jpeg?raw=true)
